@@ -1,0 +1,42 @@
+body
+{
+    background-image: url('Home-screen-background.jpg');
+    font-family:'Raleway', sans-serif;
+    text-align: center;
+    
+}
+h1
+{
+    font-size:60px;
+    margin-top: 250px;
+}
+.home-nav
+{
+    list-style: none;
+}
+.home-nav li
+{
+    display: inline-block;
+    margin-left: 10px;
+}
+.home-nav li a
+{
+  text-decoration: none;
+    background-color: antiquewhite;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+#tot
+{
+    margin-right: 30px;
+}
+h2
+{
+    background-color: antiquewhite;
+   padding: 5px 5px;
+}
+#rexi
+{
+    width: 400px;
+    margin-right: 900px;
+}
